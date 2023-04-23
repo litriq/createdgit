@@ -1,0 +1,16 @@
+W:\Work\hehehe\createdgit\calcalator4ik\calcalator4ik\bin\Debug\net5.0\calcalator4ik.exe
+W:\Work\hehehe\createdgit\calcalator4ik\calcalator4ik\bin\Debug\net5.0\calcalator4ik.deps.json
+W:\Work\hehehe\createdgit\calcalator4ik\calcalator4ik\bin\Debug\net5.0\calcalator4ik.runtimeconfig.json
+W:\Work\hehehe\createdgit\calcalator4ik\calcalator4ik\bin\Debug\net5.0\calcalator4ik.runtimeconfig.dev.json
+W:\Work\hehehe\createdgit\calcalator4ik\calcalator4ik\bin\Debug\net5.0\calcalator4ik.dll
+W:\Work\hehehe\createdgit\calcalator4ik\calcalator4ik\bin\Debug\net5.0\calcalator4ik.pdb
+W:\Work\hehehe\createdgit\calcalator4ik\calcalator4ik\obj\Debug\net5.0\calcalator4ik.csproj.AssemblyReference.cache
+W:\Work\hehehe\createdgit\calcalator4ik\calcalator4ik\obj\Debug\net5.0\calcalator4ik.GeneratedMSBuildEditorConfig.editorconfig
+W:\Work\hehehe\createdgit\calcalator4ik\calcalator4ik\obj\Debug\net5.0\calcalator4ik.AssemblyInfoInputs.cache
+W:\Work\hehehe\createdgit\calcalator4ik\calcalator4ik\obj\Debug\net5.0\calcalator4ik.AssemblyInfo.cs
+W:\Work\hehehe\createdgit\calcalator4ik\calcalator4ik\obj\Debug\net5.0\calcalator4ik.csproj.CoreCompileInputs.cache
+W:\Work\hehehe\createdgit\calcalator4ik\calcalator4ik\obj\Debug\net5.0\calcalator4ik.dll
+W:\Work\hehehe\createdgit\calcalator4ik\calcalator4ik\obj\Debug\net5.0\refint\calcalator4ik.dll
+W:\Work\hehehe\createdgit\calcalator4ik\calcalator4ik\obj\Debug\net5.0\calcalator4ik.pdb
+W:\Work\hehehe\createdgit\calcalator4ik\calcalator4ik\obj\Debug\net5.0\calcalator4ik.genruntimeconfig.cache
+W:\Work\hehehe\createdgit\calcalator4ik\calcalator4ik\obj\Debug\net5.0\ref\calcalator4ik.dll
